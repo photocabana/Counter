@@ -1,0 +1,49 @@
+.center {
+    width: 50%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+
+wrapper {
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(180, 118, 128);
+    padding: 20px;
+    margin: 10px;
+}
+
+h1 {
+    color: white;
+    font-size: 32pt;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+    font-size: 24pt;
+    text-align: center;
+}
+
+.changes {
+    color: aliceblue;
+    font-size: 22pt;
+    text-align: center;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20pt;
+}
+
+button {
+    background-color: lightseagreen;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+}
+
+.add {
+    color: aliceblue;
+}
